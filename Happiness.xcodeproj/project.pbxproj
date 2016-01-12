@@ -102,9 +102,9 @@
 			isa = PBXGroup;
 			children = (
 				A809D0BC1C42BB8C00A47422 /* ViewController.swift */,
-				A809D0BE1C42BB8C00A47422 /* Main.storyboard */,
-				A809D0EA1C42BD9500A47422 /* FaceView.swift */,
 				A809D0E81C42BC1200A47422 /* HapinessViewController.swift */,
+				A809D0EA1C42BD9500A47422 /* FaceView.swift */,
+				A809D0BE1C42BB8C00A47422 /* Main.storyboard */,
 				A809D0C11C42BB8C00A47422 /* Assets.xcassets */,
 				A809D0C31C42BB8C00A47422 /* LaunchScreen.storyboard */,
 				A809D0BA1C42BB8C00A47422 /* AppDelegate.swift */,
@@ -492,6 +492,7 @@
 				A809D0E11C42BB8C00A47422 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A809D0E21C42BB8C00A47422 /* Build configuration list for PBXNativeTarget "HappinessTests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +501,7 @@
 				A809D0E41C42BB8C00A47422 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A809D0E51C42BB8C00A47422 /* Build configuration list for PBXNativeTarget "HappinessUITests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +510,7 @@
 				A809D0E71C42BB8C00A47422 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
